@@ -73,6 +73,7 @@ const Form = () => {
                 )}
             </div>
             <button type="submit" className=" bg-slate-600 hover:pointer hover:bg-slate-500 font-medium text-sm py-2 px-4 rounded-lg text-white">Cadastrar</button>
+
         </form>
     )
 }
